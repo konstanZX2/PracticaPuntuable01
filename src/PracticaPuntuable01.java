@@ -71,7 +71,7 @@ public class PracticaPuntuable01 {
             System.out.println(numero4 + "+" + numero1);
         } else if (numero4 + numero2 == numeroRequerido) {
             System.out.println(numero4 + "+" + numero2);
-        } else if (numero4 + numero4 == numeroRequerido) {
+        } else if (numero4 + numero3 == numeroRequerido) {
             System.out.println(numero4 + "+" + numero3);
         } else if (numero4 + numero5 == numeroRequerido) {
             System.out.println(numero4 + "+" + numero5);
